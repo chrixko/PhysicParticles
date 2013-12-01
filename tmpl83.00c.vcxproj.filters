@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="surface.cpp">
+      <Filter>Source Files\Template</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Source Files\Template</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="InputState.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Sand.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSelector.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Concrete.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Oil.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Wood.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Smoke.cpp">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Assets.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Source Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>Source Files\Template</Filter>
+    </ClInclude>
+    <ClInclude Include="surface.h">
+      <Filter>Source Files\Template</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="InputState.h">
+      <Filter>Source Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Source Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Sand.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSelector.h">
+      <Filter>Source Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Concrete.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Oil.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Wood.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Smoke.h">
+      <Filter>Source Files\Entities\Particles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5510dadc-b59d-4cbd-9a06-b892b4ab255a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{09565b8a-9ec3-4295-9def-8289b812ec0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Template">
+      <UniqueIdentifier>{2049b46b-77ec-489d-847f-703bc9eb006a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{ac8675fd-6556-48a4-9c22-90debe05b57f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input">
+      <UniqueIdentifier>{9bd1d58b-1afe-426d-baae-e36739c305a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities\Particles">
+      <UniqueIdentifier>{cc1e98fa-091d-42a9-80e2-6032719667eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
